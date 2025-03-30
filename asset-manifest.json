@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prakticum20/static/css/main.e6c13ad2.css",
+    "main.js": "/prakticum20/static/js/main.64168ae1.js",
+    "index.html": "/prakticum20/index.html",
+    "main.e6c13ad2.css.map": "/prakticum20/static/css/main.e6c13ad2.css.map",
+    "main.64168ae1.js.map": "/prakticum20/static/js/main.64168ae1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.64168ae1.js"
+  ]
+}
